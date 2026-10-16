@@ -301,9 +301,6 @@ Set environment variables in Vercel dashboard.
    - Start Command: `cd backend && npm start`
    - Add all environment variables
 
-## License
-
-MIT © 2026 Aditya Chaurasiya
 
 ## Contributors
 - Aditya Chaurasiya ([@adityachaurasiya0112-code](https://github.com/adityachaurasiya0112-code))
