@@ -1,0 +1,14 @@
+.env
+.env.local
+node_modules/
+.next/
+dist/
+uploads/*
+!uploads/.gitkeep
+*.log
+.DS_Store
+
+backend/uploads/
+
+backend/uploads/*
+!backend/uploads/.gitkeep
